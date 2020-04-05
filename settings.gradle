@@ -1,0 +1,2 @@
+rootProject.name='HorizontalRecylerView'
+include ':app'
